@@ -101,7 +101,7 @@ const items= [
 const Researchs = () => {
   return (
     <div className="cont1">
-      <h1 className="pg-title">Researchs</h1>
+      <h1 className="pg-title">Researches</h1>
 
       {items.map((item, index) => (
         <ResearchItem key={index} item={item} index={index} />
