@@ -7,7 +7,7 @@ function Home() {
       <div className="overlay"></div>
         <video src={video} autoPlay loop muted />
         <div className="container">
-          <h1 className="title">YINS AND YANGS</h1>
+          <h1 className="title">YIN AND YANG</h1>
           <h2 className="txt2">Of Social Media and AI</h2>
         </div>
     </div>
